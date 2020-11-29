@@ -20,6 +20,9 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        prin
+
+
         sharedPreferences=this.getSharedPreferences("com.caglar.myapplication",Context.MODE_PRIVATE)
 
         object : CountDownTimer(10000,1000){

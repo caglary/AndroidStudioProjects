@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DortIslemKotlin</string>
+    <string name="kinci_sayiyi_giriniz">İkinci sayiyi giriniz</string>
+</resources>
